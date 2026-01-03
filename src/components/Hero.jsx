@@ -89,7 +89,7 @@ const Hero = () => {
             </div>
             <div className="flex gap-4 pt-4">
               <a className="bg-yellow-500 text-black px-8 py-3 rounded-md font-bold hover:bg-yellow-600 transition-all" href="/contact">Contact Me</a>
-              <a className="border border-yellow-500 text-yellow-500 px-8 py-3 rounded-md font-bold hover:bg-yellow-500 hover:text-black transition-all" href="./Suva_CV1.pdf" target="_blank" rel="noreferrer">See Resume</a>
+              <a className="border border-yellow-500 text-yellow-500 px-8 py-3 rounded-md font-bold hover:bg-yellow-500 hover:text-black transition-all" href="./Suva_CV3.pdf" target="_blank" rel="noreferrer">See Resume</a>
             </div>
           </div>
           <div className="md:col-span-5 mt-12 md:mt-0 flex justify-center items-center">
